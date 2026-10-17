@@ -256,4 +256,10 @@ body {
   .services .service-card p {
     flex-direction: column;
   }
-}/*# sourceMappingURL=try.css.map */
+}
+@media screen and (max-width:600px) {
+  .service-card{
+    flex-direction: column;
+  }
+  
+}
